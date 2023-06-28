@@ -1,0 +1,15 @@
+print = function(_str) 	{
+	show_message(_str); 
+} 
+
+print2 = function(_str) {
+	show_debug_message(_str);
+}
+
+
+var i = 0;
+var len = 1;
+while(i < len) {
+	print2("Ok we are live!");
+	i += 1;
+}
