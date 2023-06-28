@@ -1,2 +1,2 @@
-# catspeak_script_cache
- Example of loading Catspeak scripts with caching
+# Catspeak V3 Script Cache
+ Example of loading Catspeak V3 scripts with caching
